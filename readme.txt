@@ -12,7 +12,9 @@ A simple way to add a bulk of episodes for the Seriously Simple Podcasting plugi
 
 == Description ==
 
-Adding multiple podcast episodes at a time can be time consuming and cumbersome. This plugin aims to speed up the process!
+Seriously Simple Podcasting is a plugin that rocks!!
+
+However, adding multiple podcast episodes at a time can be time consuming and cumbersome. This plugin aims to speed up the process!
 
 It's as simple as entering all your relevant podcast episode information to a spreadsheet, copying the info and pasting it into the plugin's Bulk Episodes page in the WordPress Admin.
 
@@ -41,6 +43,9 @@ This plugin was designed to work with Seriously Simple Podcasting (SSP). The plu
 == Screenshots ==
 
 
+1.
+2.
+3.
 
 
 == Changelog ==
