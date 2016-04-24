@@ -8,6 +8,10 @@ Adding multiple podcast episodes at a time can be time consuming and cumbersome.
 
 This plugin is designed to work with Hugh Lashbrooke's excellent podcasting plugin, Seriously Simple Podcasting.
 
+## Links
+1. Plugin homepage: [Simple Bulk Episodes](http://jasonjalbuena.com/simple-bulk-episodes/)
+1. WordPress Repo page:  [Simple Bulk Episodes](https://wordpress.org/plugins/simple-bulk-episodes/)
+
 ## Roadmap / todo list
 
 1. Remedy any errors if more columns than are necessary are pasted
