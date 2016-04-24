@@ -3,7 +3,7 @@ Contributors: forlogos
 Donate link: http://jasonjalbuena.com/donate/
 Tags: upload, podcasts, audio, feed, google play, iTunes, media, mp3, MP4, podcast, podcasting, rss, stitcher, video, vodcast
 Requires at least: 4.4
-Tested up to: 4.4.2
+Tested up to: 4.5
 Stable tag: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -43,9 +43,9 @@ This plugin was designed to work with Seriously Simple Podcasting (SSP). The plu
 == Screenshots ==
 
 
-1.
-2.
-3.
+1. Simple Bulk Episodes plugin page. Paste in episode data to the textfield.
+2. Verification screen. Episode data pasted in the 1st screen is presented here for your verification.
+3. Confirmation page. Episode titles are shown together with links to edit and view each.
 
 
 == Changelog ==
