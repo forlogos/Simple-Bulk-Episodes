@@ -42,7 +42,7 @@ This plugin was designed to work with Seriously Simple Podcasting (SSP). The plu
 = Can I get a sample spreadsheet template to use? =
 
 Yes, you can download a [sample spreadsheet here](
-https://jasonjalbuena.com.local/wp-content/uploads/simple-bulk-episodes-sample-csv-1.csv).
+https://jasonjalbuena.com/wp-content/uploads/simple-bulk-episodes-sample-csv-1.csv).
 
 == Screenshots ==
 
