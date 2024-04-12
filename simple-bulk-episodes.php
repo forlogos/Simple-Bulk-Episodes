@@ -4,7 +4,7 @@
   Plugin Name: Simple Bulk Episodes
   Plugin URI:
   Description: A simple way to add a bulk of episodes for the Seriously Simple Podcasting plugin
-  Version: 2.0
+  Version: 2.1
   Author: forlogos
   Author URI: http://jasonjalbuena.com
   License: GPL V3
@@ -190,7 +190,7 @@ class SSP_bulk_eps {
 					global $ss_podcasting;
 
 					if (isset($ss_podcasting)) {
-						$size = $ss_podcasting->get_file_size( $ep[3] );
+						$size = $ss_podcasting->episode_repository->get_file_size( $ep[3] );
 					}
 					if (!empty($size['raw'])) {
 						add_post_meta($post_id, 'filesize_raw', $size['raw']);

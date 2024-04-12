@@ -3,8 +3,8 @@ Contributors: forlogos
 Donate link: http://jasonjalbuena.com/donate/
 Tags: upload, podcasts, audio, feed, google play, iTunes, media, mp3, MP4, podcast, podcasting, rss, stitcher, video, vidcast
 Requires at least: 4.4
-Tested up to: 6.0.2
-Stable tag: 2.0
+Tested up to: 6.5.2
+Stable tag: 2.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -54,6 +54,10 @@ https://jasonjalbuena.com/wp-content/uploads/simple-bulk-episodes-sample-csv-1.c
 
 == Changelog ==
 
+= 2.1 =
+* fix error produced when calculating file size
+* update support for WP 6.5.2
+
 = 2.0 =
 * update support for up to WP version 6.0.2
 * add support for episode type, featured image, podcasts, tags, iTunes season number, iTunes episode number, and iTunes episode type 
@@ -67,6 +71,9 @@ https://jasonjalbuena.com/wp-content/uploads/simple-bulk-episodes-sample-csv-1.c
 
 
 == Upgrade Notice ==
+
+= 2.1 =
+fix error produced when calculating file size
 
 = 2.0 =
 Version 2.0 Lots of new data can be added. Features and some bugfixes.
